@@ -15,7 +15,7 @@ A professional and modular expense management system built with Python and FastA
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/expense-manager.git
+git clone https://github.com/rezatutor475/expense-manager.git
 cd expense-manager
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
